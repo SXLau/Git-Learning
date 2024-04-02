@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 Trying update file in github
 try pull
+try push
